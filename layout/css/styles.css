@@ -232,3 +232,32 @@ strong { font-family: 'proximanova-semibold'; font-weight: normal; }
 #footer .links { padding-top: 50px; }
 
 #footer .fb-like-box { background-color: #FFF; } /*Fundo Facebook box*/
+
+
+/* ------------------------------------------------------------------------------- */
+/*  Seção Apresentação
+/* ------------------------------------------------------------------------------- */
+
+.secao-apresentacao {
+	background-color: #e0bd4b;
+}
+
+.secao-apresentacao-texto-grande {
+	color: #ffffff;
+	font-family: "proximanova-light";
+	font-size: 32px;
+	margin-top: 120px;
+	padding: 0 40px;
+}
+
+.secao-apresentacao-texto-pequeno {
+	color: #ffffff;
+	font-family: "proximanova-light";
+	font-size: 22px;
+	margin-top: 20px;
+	padding: 0 40px;
+}
+
+.secao-apresentacao-homem {
+	margin: 10px auto 0 125px;
+}
