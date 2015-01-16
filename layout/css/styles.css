@@ -309,8 +309,8 @@ strong { font-family: 'proximanova-semibold'; font-weight: normal; }
 	font-size: 18px;
 	font-weight: 300;
 	text-align: center;
-	height: 53px;
 	border-radius: 3px;
+	white-space: normal;
 }
 
 /* ------------------------------------------------------------------------------- */
@@ -487,6 +487,6 @@ strong { font-family: 'proximanova-semibold'; font-weight: normal; }
 	font-size: 18px;
 	font-weight: 300;
 	text-align: center;
-	height: 53px;
 	border-radius: 3px;
+	white-space: normal;
 }
