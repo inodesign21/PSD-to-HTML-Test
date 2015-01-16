@@ -251,7 +251,7 @@ strong { font-family: 'proximanova-semibold'; font-weight: normal; }
 	background-color: #e0bd4b;
 }
 
-.secao-apresentacao-texto-grande {
+#secao-apresentacao h2 {
 	color: #ffffff;
 	font-family: "proximanova-light";
 	font-size: 32px;
@@ -262,7 +262,7 @@ strong { font-family: 'proximanova-semibold'; font-weight: normal; }
 	text-align: left;
 }
 
-.secao-apresentacao-texto-pequeno {
+#secao-apresentacao p {
 	color: #ffffff;
 	font-family: "proximanova-light";
 	font-size: 22px;
@@ -292,7 +292,7 @@ strong { font-family: 'proximanova-semibold'; font-weight: normal; }
 	text-align: center;
 }
 
-.secao-chamada-texto-grande {
+#secao-chamada h2 {
 	font-family: "proximanova-light";
 	color:  #c7a42f;
 	font-size: 26px;
@@ -322,6 +322,7 @@ strong { font-family: 'proximanova-semibold'; font-weight: normal; }
 	background-image: url('../images/bg-gradiente.png');
 	background-position: bottom;
 	background-repeat-y: no-repeat;
+	background-repeat: repeat-x; /* mozzila repeat */
 	margin-bottom: 63px;
 
 }
@@ -354,6 +355,7 @@ strong { font-family: 'proximanova-semibold'; font-weight: normal; }
 	background-image: url('../images/bg-gradiente.png');
 	background-position: bottom;
 	background-repeat-y: no-repeat;
+	background-repeat: repeat-x; /* mozzila repeat */
 	margin-bottom: 63px;
 
 }
@@ -470,7 +472,7 @@ strong { font-family: 'proximanova-semibold'; font-weight: normal; }
 	text-align: center;
 }
 
-.secao-chamada-2-texto-grande {
+#secao-chamada-2 h2 {
 	font-family: "proximanova-light";
 	color:  #c7a42f;
 	font-size: 26px;
