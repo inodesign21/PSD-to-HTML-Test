@@ -326,9 +326,6 @@ strong { font-family: 'proximanova-semibold'; font-weight: normal; }
 	font-size: 20px; 
 	font-weight: 400;
 	line-height: 32px; 
-	text-align: left;
-	width: 277px;
-	height: 18px;
 	margin-bottom: 36px;
 }
 
@@ -340,4 +337,44 @@ strong { font-family: 'proximanova-semibold'; font-weight: normal; }
 	line-height: 22px;
 	text-align: left;
 	margin-bottom: 16px;
+	padding-right: 30px;
+}
+
+/* ------------------------------------------------------------------------------- */
+/*  Seção Benefícios
+/* ------------------------------------------------------------------------------- */
+
+#secao-beneficios {
+	background-image: url('../images/bg-gradiente.png');
+	background-position: bottom;
+	background-repeat-y: no-repeat;
+	margin-bottom: 63px;
+
+}
+
+#secao-beneficios h1 {
+	font-family: "proximanova-light";
+	color:  #ddb940;
+	font-size: 20px; 
+	font-weight: 400;
+	line-height: 32px; 
+	margin-bottom: 16px;
+}
+
+#secao-beneficios p {
+	font-family: "proximanova-light";
+	color:  #9ca5ac;
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 22px;
+	text-align: left;
+	margin-bottom: 16px;
+}
+
+#secao-beneficios img {
+	margin: 0 auto;
+}
+
+#secao-beneficios .row {
+	margin-bottom: 58px;
 }
