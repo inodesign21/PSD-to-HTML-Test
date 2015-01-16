@@ -248,6 +248,9 @@ strong { font-family: 'proximanova-semibold'; font-weight: normal; }
 	font-size: 32px;
 	margin-top: 120px;
 	padding: 0 40px;
+	font-weight: 300;
+	line-height: 38px;
+	text-align: left;
 }
 
 .secao-apresentacao-texto-pequeno {
@@ -256,6 +259,9 @@ strong { font-family: 'proximanova-semibold'; font-weight: normal; }
 	font-size: 22px;
 	margin-top: 20px;
 	padding: 0 40px;
+	font-weight: 300;
+	line-height: 28px;
+	text-align: left;
 }
 
 .secao-apresentacao-homem {
