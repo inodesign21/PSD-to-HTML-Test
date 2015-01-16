@@ -234,6 +234,15 @@ strong { font-family: 'proximanova-semibold'; font-weight: normal; }
 #footer .fb-like-box { background-color: #FFF; } /*Fundo Facebook box*/
 
 
+
+
+
+
+
+
+
+
+
 /* ------------------------------------------------------------------------------- */
 /*  Seção Apresentação
 /* ------------------------------------------------------------------------------- */
@@ -266,4 +275,38 @@ strong { font-family: 'proximanova-semibold'; font-weight: normal; }
 
 .secao-apresentacao-homem {
 	margin: 10px auto 0 125px;
+}
+
+
+
+
+/* ------------------------------------------------------------------------------- */
+/*  Seção Chamada
+/* ------------------------------------------------------------------------------- */
+
+#secao-chamada {
+	background-color: #ffffff;
+	text-align: center;
+}
+
+.secao-chamada-texto-grande {
+	font-family: "proximanova-light";
+	color:  #c7a42f;
+	font-size: 26px;
+	font-weight: 300;
+	line-height: 32px;
+	text-align: center;
+	padding-top: 59px;
+}
+
+#secao-chamada .btn {
+	background-color:  #45b29d;
+	margin: 65px 0 50px;
+	color:  #fffefe;
+	font-size: 18px;
+	font-weight: 300;
+	text-align: center;
+	height: 53px;
+	width: 356px;
+	border-radius: 3px;
 }
