@@ -277,6 +277,12 @@ strong { font-family: 'proximanova-semibold'; font-weight: normal; }
 	margin: 10px auto 0 125px;
 }
 
+@media screen and (max-width: 510px) {
+    .secao-apresentacao-homem {
+        margin: 50px auto 0;
+    }
+}
+
 /* ------------------------------------------------------------------------------- */
 /*  Seção Chamada
 /* ------------------------------------------------------------------------------- */
@@ -453,4 +459,34 @@ strong { font-family: 'proximanova-semibold'; font-weight: normal; }
     .table-responsive {
         border: hidden;
     }
+}
+
+/* ------------------------------------------------------------------------------- */
+/*  Seção Chamada 2
+/* ------------------------------------------------------------------------------- */
+
+#secao-chamada-2 {
+	background-color: #ffffff;
+	text-align: center;
+}
+
+.secao-chamada-2-texto-grande {
+	font-family: "proximanova-light";
+	color:  #c7a42f;
+	font-size: 26px;
+	font-weight: 300;
+	line-height: 32px;
+	text-align: center;
+}
+
+#secao-chamada-2 .btn {
+	background-color:  #45b29d;
+	margin: 45px 0 61px;
+	color:  #fffefe;
+	font-size: 18px;
+	font-weight: 300;
+	text-align: center;
+	height: 53px;
+	width: 356px;
+	border-radius: 3px;
 }
