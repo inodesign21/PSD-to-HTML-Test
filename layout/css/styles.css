@@ -238,7 +238,7 @@ strong { font-family: 'proximanova-semibold'; font-weight: normal; }
 /*  Seção Apresentação
 /* ------------------------------------------------------------------------------- */
 
-.secao-apresentacao {
+#secao-apresentacao {
 	background-color: #e0bd4b;
 }
 
